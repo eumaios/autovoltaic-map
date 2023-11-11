@@ -46,7 +46,7 @@ const systems = [
   {
     "name": "Création de l'association Autovoltaïc",
     "detail": "Création de l'association Autovoltaïc",
-    "img": "https://autovoltaic.ch/wp-content/uploads/2017/05/20150321_135045-300x225.jpg",
+    "img": "https://autovoltaic-ne.ch/wp-content/uploads/2017/05/20150321_135045-300x225.jpg",
     "address": "",
     "kWp": "Création de l'association Autovoltaïc",
     "coord": [
@@ -56,7 +56,7 @@ const systems = [
   },  {
     "name": "Rue Messeillers, Neuchâtel, 12.2 kWc",
     "detail": "Deux installations PV de 6.2 kWp et de 6 kWp, réalisées en autoconstruction en 2015, installées en forme compacte surun seul toit partagé par deux voisins.",
-    "img": "https://autovoltaic.ch/wp-content/uploads/2017/05/20150321_135045-300x225.jpg",
+    "img": "https://autovoltaic-ne.ch/wp-content/uploads/2017/05/20150321_135045-300x225.jpg",
     "address": "Rue Messeillers, Neuchâtel",
     "kWp": "12.2 kWc",
     "coord": [
@@ -67,7 +67,7 @@ const systems = [
   {
     "name": "Rue du Suchiez, Neuchâtel, 14.7 kWc",
     "detail": "Installation ajoutée sur tôle ondulée métallique",
-    "img": "https://autovoltaic.ch/wp-content/uploads/2018/01/9-300x225.jpg",
+    "img": "https://autovoltaic-ne.ch/wp-content/uploads/2018/01/9-300x225.jpg",
     "address": "Rue du Suchiez, Neuchâtel",
     "kWp": "14.7 kWc",
     "coord": [
@@ -78,7 +78,7 @@ const systems = [
   {
     "name": "Chemin Bel-Air, Neuchâtel, 3.0 kWc",
     "detail": "Installation 3.0 kWc, sur socle béton, 9 modules Sunpower 335 Wc, onduleur Kostal 3.0 kVA",
-    "img": "https://autovoltaic.ch/wp-content/uploads/2018/01/Unbenannt-300x225.jpg",
+    "img": "https://autovoltaic-ne.ch/wp-content/uploads/2018/01/Unbenannt-300x225.jpg",
     "address": "Chemin Bel-Air, Neuchâtel",
     "kWp": "3.0 kWc",
     "coord": [
@@ -89,7 +89,7 @@ const systems = [
   {
     "name": "Tertre, Neuchâtel, 3.78 kWc",
     "detail": "Installation intégrée 3.78 kWc, système Solrif, 18 modules CNPV 210 Wc, onduleur Kostal",
-    "img": "https://autovoltaic.ch/wp-content/uploads/2018/01/20170928_141236-300x225.jpg",
+    "img": "https://autovoltaic-ne.ch/wp-content/uploads/2018/01/20170928_141236-300x225.jpg",
     "address": "Tertre, Neuchâtel",
     "kWp": "3.78 kWc",
     "coord": [
@@ -100,7 +100,7 @@ const systems = [
   {
     "name": "Chemin de Praz, Boudry (NE), 5.6 kWc",
     "detail": "Installation ajouté sur tuile standar",
-    "img": "https://autovoltaic.ch/wp-content/uploads/2018/01/20160814_153132-300x169.jpg",
+    "img": "https://autovoltaic-ne.ch/wp-content/uploads/2018/01/20160814_153132-300x169.jpg",
     "address": "Chemin de la Praz, Boudry (NE)",
     "kWp": "5.6 kWc",
     "coord": [
@@ -111,7 +111,7 @@ const systems = [
   {
     "name": "Paul Vouga 41, Marin, 8.02 kWc",
     "detail": "Installation 8.02 kWc, ajoutée avec profilés d'insertion, 24 modules Benq-AUO 335Wc, onduleur Fronius Symo 8.2-M-",
-    "img": "https://autovoltaic.ch/wp-content/uploads/2018/07/IMG-20180621-WA0009-300x225.jpg",
+    "img": "https://autovoltaic-ne.ch/wp-content/uploads/2018/07/IMG-20180621-WA0009-300x225.jpg",
     "address": "Paul Vouga 41, Marin",
     "kWp": "8.02 kWc",
     "coord": [
@@ -122,7 +122,7 @@ const systems = [
   {
     "name": "Paul Vouga 39, Marin, 7.37 kWc",
     "detail": "Installation 7.37 kWc, ajoutée avec profilés d'insertion, 22 modules Benq-AUO 335Wc, onduleur Fronius Symo 7.0-M-",
-    "img": "https://autovoltaic.ch/wp-content/uploads/2018/07/20180615_162903-300x169.jpg",
+    "img": "https://autovoltaic-ne.ch/wp-content/uploads/2018/07/20180615_162903-300x169.jpg",
     "address": "Paul Vouga 39, Marin",
     "kWp": "7.37 kWc",
     "coord": [
@@ -133,7 +133,7 @@ const systems = [
   {
     "name": "Paul Vouga 19, Marin, 7.375 kWc",
     "detail": "Installation 7.375 kWc, ajoutée avec profilés d'insertion, 25 modulesLongi295Wc full black, onduleur Fronius Symo 7.0-M-3",
-    "img": "https://autovoltaic.ch/wp-content/uploads/2018/07/IMG-20180621-WA0007-300x225.jpg",
+    "img": "https://autovoltaic-ne.ch/wp-content/uploads/2018/07/IMG-20180621-WA0007-300x225.jpg",
     "address": "Paul Vouga 19, Marin",
     "kWp": "7.375 kWc",
     "coord": [
@@ -144,7 +144,7 @@ const systems = [
   {
     "name": "Crêt-du-Locle, 10.62 kWc",
     "detail": "Installation10.62 kWc, ajoutée,36 modulesHeckert295 Wc, onduleur Fronius Symo 10.0-M-3, regroupement pour la consommation propre (RCP) 3 appartements, bouiler PAC avec optimisation PV.",
-    "img": "https://autovoltaic.ch/wp-content/uploads/2019/11/20191130_131258-1024x576.jpg",
+    "img": "https://autovoltaic-ne.ch/wp-content/uploads/2019/11/20191130_131258-1024x576.jpg",
     "address": "Crêt-du-Locle",
     "kWp": "10.62 kWc",
     "coord": [
@@ -155,7 +155,7 @@ const systems = [
   {
     "name": "Fornachon, Peseux, 6.0 kWc",
     "detail": "Installation6.0 kWc, ajoutée sur toit en tôle,20 modulesTrina 300 Wc, 20 microonduleurs Enphase M250",
-    "img": "https://autovoltaic.ch/wp-content/uploads/2018/07/20180718_184728-300x169.jpg",
+    "img": "https://autovoltaic-ne.ch/wp-content/uploads/2018/07/20180718_184728-300x169.jpg",
     "address": "Fornachon, Peseux",
     "kWp": "6.0 kWc",
     "coord": [
@@ -166,7 +166,7 @@ const systems = [
   {
     "name": "Gorgier, 18 kWc",
     "detail": "Installation18.0 kWc, système intégré Solarstand, 60 modulesLongi 300 Wc, onduleur Kostal Piko 17",
-    "img": "https://autovoltaic.ch/wp-content/uploads/2019/09/20190512_143932-1024x576.jpg",
+    "img": "https://autovoltaic-ne.ch/wp-content/uploads/2019/09/20190512_143932-1024x576.jpg",
     "address": "Gorgier",
     "kWp": "18 kWc",
     "coord": [
@@ -177,7 +177,7 @@ const systems = [
   {
     "name": "Hertiweg, Ipsach, 7.5 kWc",
     "detail": "Installation7.5 kWc, ajoutée sur toit tuile,25 modulesLongi 300 Wc, onduleur Kostal Piko 7 , chauffage PAC",
-    "img": "https://autovoltaic.ch/wp-content/uploads/2019/11/20191116_145248-e1575136328636-1024x835.jpg",
+    "img": "https://autovoltaic-ne.ch/wp-content/uploads/2019/11/20191116_145248-e1575136328636-1024x835.jpg",
     "address": "Hertiweg, Ipsach",
     "kWp": "7.5 kWc",
     "coord": [
@@ -188,7 +188,7 @@ const systems = [
   {
     "name": "Cours \"Ma future installation PV\" à Cernier du 25.5.2019",
     "detail": "Cours \"Ma future installation PV\" à Cernier du 25.5.2019",
-    "img": "https://autovoltaic.ch/wp-content/uploads/2019/05/Annonce-cours-Autovoltaic-891x1024.jpg",
+    "img": "https://autovoltaic-ne.ch/wp-content/uploads/2019/05/Annonce-cours-Autovoltaic-891x1024.jpg",
     "address": "",
     "kWp": "Cours \"Ma future installation PV\" à Cernier du 25.5.2019",
     "coord": [
@@ -199,7 +199,7 @@ const systems = [
   {
     "name": "Rue du Seu, 2054 Chézard-St-Martin (NE), 3.1 kWc",
     "detail": "Extension d'un système existant, ajouté sur tôle en cuivre, 10 modules 310 Wc, onduleur KACO, connexion avec PAC",
-    "img": "http://autovoltaic.ch/wp-content/uploads/2019/09/2019-07-30-08.49.24-768x1024.jpg",
+    "img": "https://autovoltaic-ne.ch/wp-content/uploads/2019/09/2019-07-30-08.49.24-768x1024.jpg",
     "address": "Rue du Seu, 2054 Chézard-St-Martin (NE)",
     "kWp": "3.1 kWc",
     "coord": [
@@ -210,7 +210,7 @@ const systems = [
   {
     "name": "Rue de la Côté, 2000 Neuchâtel, 6.3 kWc",
     "detail": "Ajouté sur toit en cuivre, 20 modules de 315 Wc, regroupement pour la consommation propre (RCP).",
-    "img": "http://autovoltaic.ch/wp-content/uploads/2019/09/20190904_113613-1024x576.jpg",
+    "img": "https://autovoltaic-ne.ch/wp-content/uploads/2019/09/20190904_113613-1024x576.jpg",
     "address": "Rue de la Côté, 2000 Neuchâtel",
     "kWp": "6.3 kWc",
     "coord": [
@@ -221,7 +221,7 @@ const systems = [
   {
     "name": "Ruz Baron, 2046 Fontaines (NE), 9.3 kWc",
     "detail": "Système ajouté sur toit tuiles béton \"Tegalit\", 31 modules Trina 300 Wc full black, onduleur Fronius Symo 8.2-3-M avec Smartmeter",
-    "img": "http://autovoltaic.ch/wp-content/uploads/2019/11/20191125_143806-1024x576.jpg",
+    "img": "https://autovoltaic-ne.ch/wp-content/uploads/2019/11/20191125_143806-1024x576.jpg",
     "address": "Ruz Baron, 2046 Fontaines (NE)",
     "kWp": "9.3 kWc",
     "coord": [
