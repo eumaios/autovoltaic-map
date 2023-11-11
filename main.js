@@ -45,27 +45,32 @@ const iconStyle = new Style({
 const systems = [{
         coord: [2554663.20, 1219919.29],
         name: "Les Bulles, 2300 La Chaux-de-Fonds (NE)",
-        detail: "5.1 kWc, Couvert de terrasse, 15 modules 340 Wc"
+        detail: "5.1 kWc, Couvert de terrasse, 15 modules 340 Wc",
+        img: "https://autovoltaic-ne.ch/wp-content/uploads/2021/08/FOTFFAF.jpg"
     },
     {
         coord: [2567708.00, 1206428.89],
         name: "Paul Vouga, 2074 Marin (NE): 8.47 kWc",
-        detail: "Installation ajoutée, 22 x JA Solar JAM60S20-385 Wc, <br>onduleur Fronius 8.2-3-M"
+        detail: "Installation ajoutée, 22 x JA Solar JAM60S20-385 Wc, <br>onduleur Fronius 8.2-3-M",
+        img: "https://autovoltaic-ne.ch/wp-content/uploads/2021/09/IMG_4532-1536x1152.jpg"
     },
     {
         coord: [2552603.80, 1197040.27],
         name: "Chemin Alfred-Borel, 2022 Bevaix (NE): 8.28 kWc",
-        detail: "Carport avec toit en tôle, 23 modules Jinko Tiger 350 Wc <br>avec optimizeurs P370, <br>onduleur SolarEdge SE7K"
+        detail: "Carport avec toit en tôle, 23 modules Jinko Tiger 350 Wc <br>avec optimizeurs P370, <br>onduleur SolarEdge SE7K",
+        img: "https://autovoltaic-ne.ch/wp-content/uploads/2021/08/kaeser_terminé-1536x1152.jpg"
     },
     {
         coord: [2539061.01, 1197245.15],
         name: "Chemin des Clavins, 2108 Couvet (NE): 6.3 kWc",
-        detail: "Installation ajoutée sur toit en tuile, <br>18 modules Jinko Tiger 350 Wc fullblack, <br>onduleur Fronius Symo 6.0-3-M"
+        detail: "Installation ajoutée sur toit en tuile, <br>18 modules Jinko Tiger 350 Wc fullblack, <br>onduleur Fronius Symo 6.0-3-M",
+        img: "https://autovoltaic-ne.ch/wp-content/uploads/2021/05/20210426_114909-1536x864.jpg"
     },
     {
         coord: [2541394.51, 1179047.48],
         name: "Chemin des Bioleyres, 1405 Pomy(VD): 8.125 kWc",
-        detail: "Installation ajoutée sur toit en tuiles, <br>modules Bisol fullblack 325 Wc, <br>onduleur Fronius Symo 7.0-3-M"
+        detail: "Installation ajoutée sur toit en tuiles, <br>modules Bisol fullblack 325 Wc, <br>onduleur Fronius Symo 7.0-3-M",
+        img: "https://autovoltaic-ne.ch/wp-content/uploads/2021/05/20210417_113337-1536x864.jpg"
     },
 ]
 
@@ -76,7 +81,7 @@ while (s < systems.length) {
     let feature = new Feature({
         geometry: new Point(systems[s].coord),
         name: systems[s].name,
-        desc: '<pre><b>' + systems[s].name + '</b><br>' + systems[s].detail + '</pre>',
+        desc: '<pre><b>' + systems[s].name + '</b><br>' + systems[s].detail + '<br><img src="' +systems[s].img + '" alt="'+systems[s].name+ '" width="200"></pre>',
         type: 'Point',
         population: 4000,
         rainfall: 500,
