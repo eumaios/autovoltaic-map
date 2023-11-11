@@ -17,6 +17,11 @@ body {
   padding: 0.5rem;
 }
 
+.popup-content{
+  max-width: 300px;
+  word-wrap: break-word;
+}
+
 .ol-popup {
       position: absolute;
       background-color: white;
@@ -28,6 +33,7 @@ body {
       bottom: 12px;
       left: -50px;
       min-width: 180px;
+      max-width: 300px;
   }
 
   .ol-popup:after, .ol-popup:before {
